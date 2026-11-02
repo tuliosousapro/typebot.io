@@ -19,7 +19,7 @@
     "@ark-ui/solid": "5.0.0",
     "@fix-webm-duration/fix": "1.0.1",
     "@stripe/stripe-js": "1.54.1",
-    "dompurify": "3.2.4",
+    "dompurify": "3.4.17",
     "ky": "1.2.4",
     "marked": "9.0.3",
     "partysocket": "1.0.2",
